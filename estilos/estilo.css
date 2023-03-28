@@ -1,0 +1,30 @@
+body {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background: #FFFFFF;
+   font-family: 'Open Sans', sans-serif;
+   color: #000000;
+}
+
+a{
+    
+    padding: 10px 20px;
+    font-size: 22px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    background-color:#6495ED;
+    border: 1px solid #000080;
+    border-left: 10px solid #1E90FF;
+    transition: all 0.25s ease-in-out;
+}
+
+a:hover{
+    background-color: white;
+    color: #00008B;
+} 
+fundo{
+   display: flex;
+}
